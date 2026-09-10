@@ -28,7 +28,31 @@ Your reference salary falls, which can reduce mortgage borrowing, life cover, ma
 
 Free, no sign-up, runs in your browser. Your figures are never sent anywhere.
 
-## Related calculators
+## Worked examples at real salaries
+
+Full deduction breakdowns, computed on 2026/27 rates:
+
+| Salary | Take-home a year | Take-home a month |
+|---|---:|---:|
+| [£30,000 after tax](https://truetakehome.co.uk/salary/30000/) | £25,119.60 | £2,093.30 |
+| [£45,000 after tax](https://truetakehome.co.uk/salary/45000/) | £35,919.60 | £2,993.30 |
+| [£60,000 after tax](https://truetakehome.co.uk/salary/60000/) | £45,357.40 | £3,779.78 |
+| [£100,000 after tax](https://truetakehome.co.uk/salary/100000/) | £68,557.40 | £5,713.12 |
+
+## Related tools
+
+- [Pension tax relief calculator](https://truetakehome.co.uk/pension-tax-relief-calculator/) — check the relief you can claim if your scheme is relief at source
+- [Pension sweet spot calculator](https://truetakehome.co.uk/pension-sweet-spot-calculator/) — find the contribution level with the highest effective relief
+- [Adjusted net income calculator](https://truetakehome.co.uk/adjusted-net-income-calculator/) — see the figure the taper and the charge are measured against
+
+## Check the figures yourself
+
+- [UK tax rates and thresholds 2026/27](https://truetakehome.co.uk/tax-rates/2026-27/) — every band and threshold on one page
+- [Take-home pay statistics](https://truetakehome.co.uk/statistics/) — effective and marginal rates from £20,000 to £200,000, free to cite
+- [How the calculator works](https://truetakehome.co.uk/about/) — the order of calculation and the source for every rate
+- [rates.json](https://truetakehome.co.uk/rates.json) — the same figures as machine-readable JSON, no key required
+
+## Related calculators on GitHub
 
 - [Pension Tax Relief Calculator UK](https://github.com/HadiDevLabx/pension-tax-relief-calculator-uk)
 - [Pension Sweet Spot Calculator](https://github.com/HadiDevLabx/pension-sweet-spot-calculator)
